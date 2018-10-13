@@ -1,2 +1,2 @@
 # PythonTutorials
-This Repository will have Python Tutorial.
+This Repository Contains Python programming Codes
