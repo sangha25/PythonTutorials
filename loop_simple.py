@@ -1,5 +1,3 @@
-i=0
-while(i<=20):
-    print("numbers are : {}".format(i))
-    i=i+1
-print("Completed")
+for num in range(1,50):
+    print(num)
+print("The Simple For Loop for printing Numbers B/w 1-49")
