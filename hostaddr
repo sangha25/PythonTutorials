@@ -1,1 +1,4 @@
-
+import socket
+add1=socket.gethostbyaddr("216.58.203.132")
+add2=socket.gethostbyaddr("106.10.250.10")
+print(add1,"\t", add2)
