@@ -7,3 +7,5 @@ def frequency(str1):
         else:
             dict[n] = 1
     return dict
+
+frequency('banana')
