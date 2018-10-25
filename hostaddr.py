@@ -1,5 +1,6 @@
 #importing Socket Library for generating the address and name od DNS.
 import socket
+#gets host address By follwing Method
 add1=socket.gethostbyaddr("216.58.203.132")
 add2=socket.gethostbyaddr("106.10.250.10")
 print("The Address is Of:",add1)
