@@ -10,6 +10,7 @@ while True:
 
     # hsv values for red 160 t0 179
     # hsv values for blue is 110 to 170
+    #the hsv values of color changes according To color band
     lower_range = np.array([160,50,50])
     upper_range = np.array([180,255,255])
     mask = cv2.inRange(hsv, lower_range, upper_range)
