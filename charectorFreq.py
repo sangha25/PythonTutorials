@@ -8,4 +8,4 @@ def frequency(str1):
             dict[n] = 1
     return dict
 
-frequency('banana')
+print(frequency('apple'))
