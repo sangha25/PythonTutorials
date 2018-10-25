@@ -16,3 +16,5 @@ except ValueError:
     print("Only positive integers are allowed")
 except:
     print("something is wrong")
+    
+print("Finally Block will always executes")
